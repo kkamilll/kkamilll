@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Kamil 👋
 
-<!--
-**kkamilll/kkamilll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Graduate Engineer** from Poznan University of Technology, currently pursuing my Master's in **Advanced Internet Technologies**. 
 
-Here are some ideas to get you started:
+I am a web development enthusiast focused on mastering the **MERN stack**. I bridge academic knowledge with practical self-study to build efficient, modern, and scalable web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Technical Skills
+
+*   **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Tailwind CSS
+*   **Backend:** Node.js, Express.js
+*   **Database:** MongoDB
+*   **Tools & Deployment:** Postman, Netlify, Git
+
+---
+
+### 📚 Continuous Learning
+
+I believe that a great engineer never stops learning. Currently, I am:
+*   📖 Studying **"JavaScript: Podstawy" by Marcin Moskała** to deepen my understanding of the language.
+*   💻 Completing certifications on **freeCodeCamp** to polish my full-stack skills.
+*   🎓 Exploring advanced web architectures as part of my **M.Sc. program**.
+
+---
+
+### 🛠️ Current Focus
+I’m currently building hands-on projects to perfect my skills in **MERN** and responsive design with **Tailwind**. Every line of code is a step toward becoming a top-tier software developer.
+
+📫 **How to reach me:** 
