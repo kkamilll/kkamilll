@@ -12,7 +12,7 @@ I study in a part-time mode, which allows me to balance my academic growth with 
 * **Backend:** Node.js, Express.js
 * **Databases:** MongoDB
 * **Systems & Ops:** IT Administration, Git, Deployment (Netlify, Vercel)
-* **Tools & AI:** Postman, VS Code, Linux, Bolt.new (AI Prototyping)
+* **Tools & AI:** Postman, VS Code, Linux, Antigravity
 
 ---
 
