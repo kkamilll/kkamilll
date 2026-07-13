@@ -19,9 +19,10 @@ I study in a part-time mode, which allows me to balance my academic growth with 
 ### 📚 Continuous Learning & Education
 
 I bridge academic theory with intensive self-study, constantly expanding my tech stack through:
-* 📖 **Deepening JS Foundations:** Reading *"JavaScript: od podstaw"* by Marcin Moskała and *"JavaScript. Od pierwszej linii kodu"* (Laurence Lars Svekis).
+* 📖 **Deepening JS Foundations:** Studying *"JavaScript from the Ground Up"* (Marcin Moskała) and *"JavaScript from the First Line of Code"* (Laurence Lars Svekis).
 * 💻 **Full-Stack Curriculums:** Actively completing comprehensive programs on **freeCodeCamp** and **Scrimba** to master modern frontend and backend practices.
-* 🤖 **AI-Assisted Development:** Experimenting with **vibe coding** and leveraging AI tools like **Bolt.new** to rapidly build, test, and prototype functional web applications.
+* 🛠️ **Building & Learning:** Developing my own personal projects while coding along with various tutorials to gain hands-on experience.
+* 🤖 **Vibe Coding:** Just having fun experimenting with this approach—using **Antigravity** to quickly build and test simple applications entirely through prompts.
 
 ---
 
