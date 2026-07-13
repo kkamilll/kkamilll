@@ -2,7 +2,7 @@
 
 I am a **Computer Science Engineer**, a graduate of the Poznan University of Technology, currently pursuing my **Master's degree** in **Advanced Internet Technologies** at the same institution.
 
-I study in a part-time mode, which allows me to balance my academic growth with my professional role as an **IT Administrator**. However, my true passion lies in web development – I am constantly refining my programming skills and building modern web applications.
+I study in a part-time mode, which allows me to balance my academic growth with my professional role as an **IT Administrator**. However, my true passion lies in web development – I am constantly refining my programming skills, building modern web applications, and exploring modern AI-driven development.
 
 ---
 
@@ -12,18 +12,18 @@ I study in a part-time mode, which allows me to balance my academic growth with 
 * **Backend:** Node.js, Express.js
 * **Databases:** MongoDB
 * **Systems & Ops:** IT Administration, Git, Deployment (Netlify, Vercel)
-* **Tools:** Postman, VS Code, Linux
+* **Tools & AI:** Postman, VS Code, Linux, Bolt.new (AI Prototyping)
 
 ---
 
 ### 📚 Continuous Learning & Education
 
-I bridge academic theory with intensive self-study. I dedicate every spare moment to expanding my knowledge through:
-* 📖 **Deepening JS Foundations:** Currently reading *"JavaScript: od podstaw"* by Marcin Moskała.
-* 💻 **Full-Stack Development:** Completing the Full Stack Developer Curriculum on **freeCodeCamp**.
-* 🎥 **Project-Based Learning:** Building real-world applications following advanced industry tutorials and documentation.
+I bridge academic theory with intensive self-study, constantly expanding my tech stack through:
+* 📖 **Deepening JS Foundations:** Reading *"JavaScript: od podstaw"* by Marcin Moskała and *"JavaScript. Od pierwszej linii kodu"* (Laurence Lars Svekis).
+* 💻 **Full-Stack Curriculums:** Actively completing comprehensive programs on **freeCodeCamp** and **Scrimba** to master modern frontend and backend practices.
+* 🤖 **AI-Assisted Development:** Experimenting with **vibe coding** and leveraging AI tools like **Bolt.new** to rapidly build, test, and prototype functional web applications.
 
 ---
 
 ### 📫 Get in Touch:
-* **Email:**
+* **Email:** 
