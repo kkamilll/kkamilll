@@ -27,4 +27,4 @@ I bridge academic theory with intensive self-study, constantly expanding my tech
 ---
 
 ### 📫 Get in Touch:
-* **Email:** 
+* **Email:** [pujanekkamil@gmail.com](mailto:pujanekkamil@gmail.com)
