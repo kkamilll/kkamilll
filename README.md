@@ -25,6 +25,3 @@ I bridge academic theory with intensive self-study, constantly expanding my tech
 * 🤖 **Vibe Coding:** Just having fun experimenting with this approach—using **Antigravity** to quickly build and test simple applications entirely through prompts.
 
 ---
-
-### 📫 Get in Touch:
-* **Email:** [pujanekkamil@gmail.com](mailto:pujanekkamil@gmail.com)
