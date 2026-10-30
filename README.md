@@ -22,6 +22,6 @@ I bridge academic theory with intensive self-study, constantly expanding my tech
 * 📖 **Deepening JS Foundations:** Studying *"JavaScript from the Ground Up"* (Marcin Moskała) and *"JavaScript from the First Line of Code"* (Laurence Lars Svekis).
 * 💻 **Full-Stack Curriculums:** Actively completing comprehensive programs on **freeCodeCamp** and **Scrimba** to master modern frontend and backend practices.
 * 🛠️ **Building & Learning:** Developing my own personal projects while coding along with various tutorials to gain hands-on experience.
-* 🤖 **Vibe Coding:** Just having fun experimenting with this approach—using **Antigravity** to quickly build and test simple applications entirely through prompts.
+* 🤖 **Vibe Coding:** Just having fun experimenting with this approach using **Antigravity** to quickly build and test simple applications entirely through prompts.
 
 ---
